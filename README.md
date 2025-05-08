@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tarang Bhalodiya</h1>
+<h1 align="center">Hi 👋, I'm Aman Rathod</h1>
 <h3 align="center">A passionate frontend developer. from India Learning | Building</h3>
 
 <img align="center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Frontend dev.**
 
-- 📫 How to reach me **tarangbhalodiya1912@gmail.com**
+- 📫 How to reach me **amanrathod2334@gmail.com**
 
-- 👨‍💼 Intern at **7Span**
+- 👨‍💼 Intern at **Aphonic Solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
