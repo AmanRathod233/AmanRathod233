@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanrathod2334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amanrathod2334&label=Profile%20views&color=0e75b6&style=flat" alt="Aman Rathod" />
 </p>
 
 - 🔭 I’m currently working on **Frontend Development**
