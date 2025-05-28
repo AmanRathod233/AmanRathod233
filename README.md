@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer. from India Learning | Building</h3>
 
 <img align="center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
-<br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanrathod2334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
