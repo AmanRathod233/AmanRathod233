@@ -6,8 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=amanrathod2334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left"> <a href="www.linkedin.com/in/aman-rathod-804427285" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&style=for-the-badge" alt="Aman Rathod" /></a> </p>
-
 - 🔭 I’m currently working on **Frontened Development**
 
 - 🌱 I’m currently learning **React**
