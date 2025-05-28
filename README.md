@@ -3,9 +3,7 @@
 
 <img align="center" src="https://jusmarktech.com/public/a/images/pages/web_development.gif">
 <br>
-<p align="center">
-  <img src="https://jusmarktech.com/public/a/images/pages/web_development.gif" alt="Web Development" />
-</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=amanrathod2334&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
