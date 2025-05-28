@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Aman Rathod</h1>
 <h3 align="center">A passionate frontend developer. from India Learning | Building</h3>
 
@@ -33,3 +34,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="40"/> </a>
   </p>
  </p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanrathod233&show_icons=true&locale=en&theme=dark&layout=compact" alt="amanrathod2334" />
+</p>
