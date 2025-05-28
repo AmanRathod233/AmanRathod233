@@ -39,3 +39,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmanRathod233&show_icons=true&locale=en&theme=dark&layout=compact" alt="AmanRathod233" />
 </p>
 
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmanRathod233&theme=dark" alt="AmanRathod233" />
+</p>
+
